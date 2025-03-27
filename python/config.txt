@@ -1,0 +1,2 @@
+HELLO_WORLD_FILE = "hello.json"
+ROOT_NAME = "root"
